@@ -1,6 +1,8 @@
 # Hi, I'm Kristina 👋  
 
-Passionate about IT and cybersecurity, with experience in SOC analysis and web development. Always exploring new challenges in security and coding.  
+"The first principle is that you must not fool yourself—and you are the easiest person to fool." – Richard Feynman  
+
+Driven by curiosity, I explore cybersecurity, web development, and the art of problem-solving.
 
 ## 🔹 About Me  
 - 💻 Experienced in SOC analysis, web development, and ethical hacking  
