@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Kristina 👋  
 
-<!--
-**spacetimeki/spacetimeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about IT and cybersecurity, with experience in SOC analysis and web development. Always exploring new challenges in security and coding.  
 
-Here are some ideas to get you started:
+## 🔹 About Me  
+- 💻 Experienced in SOC analysis, web development, and ethical hacking  
+- ⚡ Currently building my own website and diving deeper into cybersecurity  
+- 🛠️ Proficient in JavaScript, Manjaro Linux, and security research  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+- GitHub: [github.com/spacetimeki](https://github.com/spacetimeki)  
+- LinkedIn: [linkedin.com/in/ki-antic](https://linkedin.com/in/ki-antic)  
+```
+
+Let me know if you want any edits! 🚀
