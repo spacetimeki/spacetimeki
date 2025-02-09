@@ -10,6 +10,3 @@ Passionate about IT and cybersecurity, with experience in SOC analysis and web d
 ## 📫 Connect with Me  
 - GitHub: [github.com/spacetimeki](https://github.com/spacetimeki)  
 - LinkedIn: [linkedin.com/in/ki-antic](https://linkedin.com/in/ki-antic)  
-```
-
-Let me know if you want any edits! 🚀
