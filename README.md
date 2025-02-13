@@ -4,7 +4,5 @@
 
 driven by curiosity, i explore cybersecurity, web development, and the art of problem-solving.
 
-currently building my own website and working on my cysa+ certification.
-
 ## 📫 connect with me  
 - linkedin: [linkedin.com/in/ki-antic](https://linkedin.com/in/ki-antic)  
