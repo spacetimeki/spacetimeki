@@ -1,16 +1,16 @@
 # Hi, I'm Ki 👋
 
-> *"The first principle is that you must not fool yourself—and you are the easiest person to fool."*  
+> *"The first principle is that you must not fool yourself — and you are the easiest person to fool."*  
 > — Richard Feynman
 
-I'm a curious mind exploring the depths of **cybersecurity**, from digital recon to red team tactics. I love dissecting systems, experimenting in my lab, and constantly sharpening my skills.
+I like breaking things (on purpose) and figuring out why they broke.
 
-### 🛡️ Current Focus
-- Ethical hacking & offensive security (Kali Linux, Nmap, Evil Twin attacks, etc.)
-- Setting up and documenting hands-on labs
-- Diving into real-world attack simulations and toolsets
+### 🛡️ What I'm Into
+- Ethical hacking & offensive security (Nmap, Kali Linux, Evil Twin setups, etc.)
+- Building and documenting hands-on labs
+- Playing with real-world attack techniques and red team tools
 
-### 🤝 Connect with Me
+### 🤝 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/ki-antic)
 
 ---
