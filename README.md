@@ -3,8 +3,6 @@
 > *"the first principle is that you must not fool yourself — and you are the easiest person to fool."*  
 > — richard feynman
 
-i like breaking things (on purpose).
-
 ### 🛡️ what i'm into
 - ethical hacking & offensive security (nmap, kali linux, evil twin setups, etc.)
 - building and documenting hands-on labs
