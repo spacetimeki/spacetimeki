@@ -1,9 +1,9 @@
-# Hi, I'm Ki 👋
+# hi, i'm ki 👋
 
-> *"The first principle is that you must not fool yourself — and you are the easiest person to fool."*  
-> — Richard Feynman
+> *"the first principle is that you must not fool yourself — and you are the easiest person to fool."*  
+> — richard feynman
 
-### 🤝 Connect with me
+### 🤝 connect with me
 - [LinkedIn](https://www.linkedin.com/in/ki-antic)
 
 ---
