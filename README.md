@@ -1,6 +1,6 @@
 # hi 👋,
 
-### 🤝 connect with me
+### 🤝 connect with me:
 - [LinkedIn](https://www.linkedin.com/in/ki-antic)
 
 ---
