@@ -1,6 +1,6 @@
-# hi 👋, 
+# hi, 
 
-i'm **spacetimeki**, and i document my learning.
+i'm **spacetimeki**👋
 
 ### 🤝 add me:
 - [LinkedIn](https://www.linkedin.com/in/ki-antic)
