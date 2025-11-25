@@ -1,30 +1,33 @@
-# Hi, I'm Ki 👋
 
-All things Cybersecurity | Arch Linux enthusiast
+┌─────────────────────────────────────────────┐
+│ hi, i'm ki 👋                               │
+│ all things cybersecurity | all things linux │
+└─────────────────────────────────────────────┘
 
----
+$ whoami
+> ki
 
-### 🔐 What I Do
+$ cat about_me
+> security operations & threat analysis
+> pentesting & ethical hacking
+> dev & scripting (react, js, python, bash)
+> building tools that make security accessible
+> writing guides & deep dives on it & security topics
+> primarily always enjoyed breaking into stuff
 
-* Security Operations & Threat Analysis
-* Development & Scripting
-* Building tools that make security accessible
-* Writing guides & deep dives on IT & security topics
+$ ls ~/projects
+> portfolio_site  blog
 
----
+$ cd portfolio_site && cat README.md
+> terminal-style interface showcasing my work
+> https://spacetimeki.github.io
 
-### 🚀 Explore
+$ cd ../blog && cat README.md
+> deep dives into projects & security topics
+> https://spacetimeki.github.io/spacetimeki-blog
 
-* [Portfolio Site](https://spacetimeki.github.io) – Terminal-style interface showcasing my work
-* [Blog](https://spacetimeki.github.io/spacetimeki-blog) – Deep dives into projects & security topics
+$ connect linkedin
+> https://www.linkedin.com/in/ki-antic
+$
 
----
-
-### 🤝 Connect
-
-* [LinkedIn](https://www.linkedin.com/in/ki-antic)
-
----
-
-*"Security through simplicity, powered by curiosity."*
 
