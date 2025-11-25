@@ -1,4 +1,5 @@
 hi, i'm ki 👋
+
 all things cybersecurity | all things linux
 
 $ whoami
