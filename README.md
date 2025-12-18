@@ -1,1 +1,1 @@
-i’m ki — a cybersecurity engineer and systems developer building tooling, automation, and guides that make security and linux less scary.
+hi, i’m ki — linux-centric cybersecurity engineer / dev | tech: javascript, python, bash, linux, pentesting | contact: linkedin.com/in/ki-antic/
