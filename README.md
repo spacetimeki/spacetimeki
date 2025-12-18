@@ -1,1 +1,1 @@
-i’m ki — a cybersecurity engineer and systems developer building tooling, automation, and guides that make security and linux less scary. comfortable across linux, bash, python, and full stack apps. 
+i’m ki — a cybersecurity engineer and systems developer building tooling, automation, and guides that make security and linux less scary. 
