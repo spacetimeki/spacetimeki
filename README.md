@@ -1,5 +1,1 @@
-👋 hi, i’m ki — linux-centric cybersecurity engineer / dev |
-🔧 tech: javascript, python, bash, linux, pentesting, soc |
-📫 contact: linkedin.com/in/ki-antic/ 
-
-
+i’m ki — a cybersecurity engineer and systems developer building tooling, automation, and guides that make security and linux less scary. comfortable across linux, bash, python, and full stack apps. 
